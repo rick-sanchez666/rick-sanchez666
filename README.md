@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rick-sanchez666
+- 👋 Hi, I’m Sai Deep Konduri
 - 👀 I’m interested in devloping web applications
-- 🌱 I’m currently learning Java and Databases 
+- 🌱 I’m currently learning spring boot and microservices 
 - 💞️ I’m looking to collaborate on any product development
 - 📫 How to reach me ... kondurisaideep@gmail.com
 - 📍  Currently located at Maryville, MO
